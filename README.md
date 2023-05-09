@@ -1,3 +1,2 @@
 # StopWatch Tutorial
 
-Demo tutorial
